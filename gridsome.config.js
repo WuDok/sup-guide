@@ -17,7 +17,7 @@ module.exports = {
     github: process.env.URL_GITHUB || false,
     nav: {
       links: [
-        { path: '/docs/', title: 'Docs' }
+        { path: '/docs/', title: 'Guides' }
       ]
     },
     sidebar: [
@@ -34,12 +34,26 @@ module.exports = {
             ]
           },
           {
-            title: 'Configuration',
+            title: 'Where to go',
             items: [
               '/docs/settings/',
               '/docs/sidebar/',
             ]
-          }
+          },
+          {
+            title: 'Gear',
+            items: [
+              '/docs/settings/',
+              '/docs/sidebar/',
+            ]
+          },
+          {
+            title: 'Training',
+            items: [
+              '/docs/settings/',
+              '/docs/sidebar/',
+            ]
+          },
         ]
       }
     ]

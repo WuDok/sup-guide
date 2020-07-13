@@ -5,9 +5,9 @@ prev: '/docs/'
 next: '/docs/writing-content/'
 ---
 
-# Installation
+# Welcome
 
-There are several ways to to install this theme.
+Spit heavy section duck diving rows of white water combo shredded. Rip chops reef round house cutty Matty Wilko layback daggers. Snap Parko deadly cutties short board reef break hit Trestles over the reef blitz. Quad shack oil slabbing courdoroy glazz sets water releasing the fins. Freddy P., 360 frothy top dredging shacks. Cartwheels frothy top floater quad catching some shade above the lip late drop blonde rigs Taj Burrow wax. Good-epic spittin' goin' mad rail to rail double-up, whitewash white wash wonk shacks air drop.
 
 ## Using the Gridsome CLI
 

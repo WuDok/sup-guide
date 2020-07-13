@@ -6,15 +6,15 @@ next: '/docs/installation/'
 
 # Introduction
 
-Docc is a starter theme for [Gridsome](https://gridsome.org/) which is a static site generator powered by Vue. It allows you to quickly start writing your technical documentation for any kind of project.
+[SeatownSup](https://seatownsup.com/) which is white water, pose on the nose fired up whips one snap dry hair paddle out over the reef Dane Reynolds dry hair nosepick reverse. Slash double up Snapper Rocks duck diving pocket ripping twin keel hollow. 
 
 ## Fast by default
 
 This is the catchphrase of Gridsome and true in any sense of the word. Static site generators output plain html files and have other great features like image processing and lazy-loading. After Serving the initial html, Gridsome site turn into a snappy single page application.
 
-If I may quote Gridsome themselves:
+If I may quote Bruce Lee himself:
 
-> Gridsome builds ultra performance into every page automatically. You get code splitting, asset optimization, progressive images, and link prefetching out of the box. With Gridsome you get almost perfect page speed scores by default.
+> Any idea that is constantly held in the mind and emotionalized, begins at once to clothe itself in the most convenient and appropriate physical form that is available.
 
 In combination with [Netlify](https://www.netlify.com/) this theme gives you a perfect Lighthouse score out of the box.
 
