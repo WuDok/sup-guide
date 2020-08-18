@@ -3,7 +3,8 @@
     <div class="pt-8 md:pt-16">
       <div class="flex flex-col items-center">
         <div class="flex flex-col items-center mb-2 text-ui-primary">
-          <Logo :width="80" />
+          <g-image src="../../static/logo.svg" alt="hero" class="h-20 mb-5
+          mx-auto sm:mx-0" />
           <h2 class="text-3xl text-6xl font-black tracking-tighter border-none">
             SUP GUIDES
           </h2>
@@ -11,6 +12,7 @@
         <h1 class="text-4xl text-center lg:text-5xl">
           Your SUP adventures start here.
         </h1>
+        
         <p class="text-xl font-medium text-center">
           The ultimate guide to Standup Paddleboarding.
           <br>
@@ -28,8 +30,8 @@
         </div>
 
         <p class="mt-8 text-center">
-          Share your favorite gear, places to paddle, training techniques. <span class="border-b border-dashed border-ui-primary text-ui-primary">
-            Contribute to SUP Guides.</span>.
+          Share your favorite gear, places to paddle, and training techniques. <span class="border-b border-dashed border-ui-primary text-ui-primary">
+            Contribute to SUP Guides.</span>
         </p>
 
       </div>
@@ -43,7 +45,7 @@
             A Progressive Web App
           </h3>
           <p class="text-lg text-left">
-            Download guides to your phone so you still have access when you're off the grid. <span class="border-b border-dashed border-ui-primary text-ui-primary">No seriously</span>.
+            Download guides to your phone so you still have access when you're off the grid. <span class="border-b border-dashed border-ui-primary text-ui-primary">Coming Soon</span>.
           </p>
         </div>
 
