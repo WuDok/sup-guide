@@ -5,7 +5,7 @@
         <div class="flex flex-col items-center mb-2 text-ui-primary">
           <g-image src="../../static/logo.svg" alt="hero" class="h-20 mb-5
           mx-auto sm:mx-0" />
-          <h2 class="text-3xl text-6xl font-black tracking-tighter border-none">
+          <h2 class="text-3xl text-6xl font-black tracking-tighter border-none text-center">
             SUP GUIDES
           </h2>
         </div>
