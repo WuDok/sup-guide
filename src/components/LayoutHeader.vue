@@ -5,10 +5,16 @@
       <div class="flex items-center justify-between -mx-2 sm:-mx-4">
         <div class="flex flex-col items-center px-2 mr-auto sm:px-4 sm:flex-row">
           
-          <div>
-          <g-link to="/"><g-image src="../../static/logo.svg" class="w-20" alt="logo" /></g-link>
-        </div>
-          
+          <g-link 
+            to="/"
+            class="flex items-center text-ui-primary"
+            title="Home"
+          >
+            <Logo :width="40" class="text-ui-primary" />
+            <span class="hidden ml-2 text-sm font-black tracking-tighter uppercase sm:block">
+              {{ meta.siteName }}
+            </span>
+          </g-link>
 
           <div v-if="settings.nav.links.length > 0" class="hidden ml-2 mr-5 sm:block sm:ml-8">
             <g-link
