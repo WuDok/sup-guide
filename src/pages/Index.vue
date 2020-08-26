@@ -30,8 +30,8 @@
         </div>
 
         <p class="mt-8 text-center">
-          Share your favorite gear, places to paddle, and training techniques. <span class="border-b border-dashed border-ui-primary text-ui-primary">
-            Contribute to SUP Guides.</span>
+          Learn more about gear, training techniques, and the  <span class="border-b border-dashed border-ui-primary text-ui-primary">
+            best places to paddle in Seattle and Washington State.</span>
         </p>
 
       </div>

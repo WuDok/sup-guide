@@ -28,16 +28,14 @@ module.exports = {
             title: 'Getting Started',
             items: [
               '/docs/',
-              '/docs/installation/',
-              '/docs/writing-content/',
-              '/docs/deploying/',
             ]
           },
           {
             title: 'Where to go',
             items: [
-              '/docs/settings/',
-              '/docs/sidebar/',
+              '/docs/lakes/',
+              '/docs/puget-sound/',
+              '/docs/rivers/',
             ]
           },
           {

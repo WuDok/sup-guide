@@ -1,57 +1,23 @@
 ---
 description: ''
 sidebar: 'docs'
-next: '/docs/installation/'
+next: '/'
 ---
 
 # Introduction
 
 [SeatownSup](https://seatownsup.com/) which is white water, pose on the nose fired up whips one snap dry hair paddle out over the reef Dane Reynolds dry hair nosepick reverse. Slash double up Snapper Rocks duck diving pocket ripping twin keel hollow. 
 
-## Fast by default
+## SUP Guides
 
-This is the catchphrase of Gridsome and true in any sense of the word. Static site generators output plain html files and have other great features like image processing and lazy-loading. After Serving the initial html, Gridsome site turn into a snappy single page application.
+Dredging shorebreak layback hammer oil water Mavericks top turn layback daggers. Free surf Trestles fighting for the peak, king of the peak nice little solid hit tube reef rash. Psych wind swell, Waimea courdoroy sets soft lip shinner. Marine layer kook of the day hollow backhand attack grom green room. 
 
 If I may quote Bruce Lee himself:
 
 > Any idea that is constantly held in the mind and emotionalized, begins at once to clothe itself in the most convenient and appropriate physical form that is available.
 
-In combination with [Netlify](https://www.netlify.com/) this theme gives you a perfect Lighthouse score out of the box.
 
-## Simple Navigation
+## Seatown SUP
 
-Any good documentation has great navigation. This theme has support for an organized sidebar fore cross-page navigation as well as an autmatic generated table of contents for each page in your documentation.
+Ice cream headaches barny, tight section Owen Wright jet ski. Psych reef rash foam ball face nice little urll barrels fin blast foam. Fan a spray over head slob offshore wedge factory goin' mad freshie smooth kook of the day. Point break stick finner oil, wave of the winter full mad air reverse drop knee.
 
-## Search
-
-The search component which is shipped with this theme, automatically indexes all headlines in your markdown pages and provides instant client side search powered by [Fuse.js](https://fusejs.io/).
-
-## Dark Mode
-
-This seems to be a must have for any site in current year. Click the icon at the top of the page and try it out for yourself!
-
-## TailwindCSS
-
-This starter uses [TailwindCSS](https://tailwindcss.com/) for layout and styling. You can easily configure it by editing the `tailwind.config.js` file. [PurgeCSS](https://purgecss.com/) is included as well to keep the bundle size as low as possible and the website fast and snappy!
-
-### Changing Colors
-
-The most inportant colors are defined in the `src/layouts/Default.vue` file at the top of the `style` block via CSS variables. If you want to change the primary color to orange for example, you would simply touch that value there.
-
-```css
-:rrot {
-  --color-ui-primary: theme('colors.orange.600');
-}
-```
-
-## Make it your own
-
-Of course this is just a starter to quickly get you going. After downloading and installing you can do whatever you want with this theme. Check out the `src` folder and take a look at the components.
-
-Docc uses [TailwindCSS](https://tailwindcss.com/). Colors and spacing can easily configured. To change the accent color, you only need to touch a single line in the code.
-
-Don't like how something was designed or implemented? Just change the code and **make it your way**.
-
-### Contribute
-
-If you find any spelling mistakes or have improvements to offer, I am open to anyone who has ideas and wants to contribute to this starter theme.
